@@ -1,6 +1,10 @@
 # 智能答题系统 (Smart Q&A System)
 
-一个基于Vue.js和Node.js的实时答题系统，支持教师创建房间、学生扫码加入、实时答题统计等功能。
+一个基于Vue.js和Node.js的实时答题系统，支持教师创建房间、学生微信扫码授权加入、实时答题统计等功能。
+
+![preview](/preview.png)
+
+![preview](/preview2.png)
 
 ## 功能特性
 
