@@ -75,7 +75,7 @@ ans_kKTxs/
 1. **克隆项目**
    ```bash
    git clone <repository-url>
-   cd ans_kKTxs
+   cd ans
    ```
 
 2. **安装依赖**
@@ -90,10 +90,15 @@ ans_kKTxs/
 
 4. **启动服务器**
    ```bash
-   cd server
-   node app.js
+   npm run serve
+   
    ```
 
+   ```bash
+   npm run dev
+
+   ```
+   
 5. **访问应用**
    - 本地开发：`http://localhost:3001`
    - 生产环境：`https://your-domain.com`
